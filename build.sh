@@ -112,3 +112,5 @@ md5sum xmrig.exe
 strip -s xmrig-proxy.exe
 md5sum xmrig-proxy.exe
 
+chmod +x *
+ 
